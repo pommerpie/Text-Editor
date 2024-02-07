@@ -7,6 +7,8 @@
 
 [Installation](#install)
 
+[Usage](#usage)
+
 [License](#license)
 
 [Questions](#quest)
@@ -18,9 +20,13 @@
 ## Installation
 
    Express.js, babel, webpack
+## Usage
+  You can see the deployed application <a href="https://just-another-text-editor-fy30.onrender.com/"> here! </a>
+  
 ## License
 
    MIT, https://opensource.org/licenses/MIT
+   
 ## Questions
 
    If you have questions about this project, please reach me here:
